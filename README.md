@@ -1,5 +1,19 @@
 # reine-performing-robots
 
+SOFTWARE ART/TEXT  - PERFORMING ROBOTICS COLLABORATION WEBSITE:
+
+
+
+https://reine-performing-robotics.tumblr.com
+
+
+
+
+This is the thorough description of our schedule, technicalities, materials, and sketches drawn in preparation of the December IM exhibition
+
+
+
+-----------------------------------------
 
 Robotic Performance: Huang Yi and Kuka
 
