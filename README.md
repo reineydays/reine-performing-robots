@@ -1,5 +1,35 @@
 # reine-performing-robots
 
+DUE FOR NOVEMBER 16TH, THURSDAY:
+
+- Begin illustrator files and finalize measurements for layer 2 of spinning robot arm 
+- Meet with Arantza and finalize construction details, collaborate to make sure Software projections are in sync with hardware
+- Finalize specific dimension intensions for robot project
+
+- Be ready to start laser cutting in class on Thursday.
+
+TO BE PRINTED:
+
+- central Vinyl acryllic base
+- two acryllic stands to hold both motors
+- two acryllic CD bases for the two motor spins
+
+- Gather the two light motors needed for the second arm.
+
+
+DUE FOR NOVEMBER 21ST, TUESDAY:
+
+- Finish second layer of robot arm and have started construction of initial layer (the heavier duty motor).
+- Second layer should be robust and durable for application on to initial layer.
+
+
+DUE FOR NOVEMBER 23RD, THURSDAY:
+
+- Finish robot arm and be ready for trial runs for durability and management. Begin preparations for acrylic wall to go in front of arm. 
+
+
+------------------------------------------
+
 SOFTWARE ART/TEXT  - PERFORMING ROBOTICS COLLABORATION WEBSITE:
 
 
